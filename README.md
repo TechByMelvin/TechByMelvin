@@ -1,10 +1,21 @@
-Hi, I'm Melvin! 👋
-Welcome to my GitHub profile!
+<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/melvin-castillo-b7422aa2/">IT Professional</a>☺</h1>
 
-I'm new to the world of IT, and I’m currently learning Python and cybersecurity. I’m passionate about diving deep into technology, building secure systems, and continuously improving my skills. My focus is on learning how to identify vulnerabilities, improve system security, and automate processes as I grow in the cybersecurity space.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Key Strengths:
-🔐 Cybersecurity Enthusiast: Actively learning system hardening, threat detection, and vulnerability management.
-💻 IT Support: Gaining hands-on experience in troubleshooting, network administration, and end-user support.
-⚙️ Python: Currently learning scripting and automation to streamline processes and improve security.
-👥 Collaboration: Team player and strong communicator, eager to learn and contribute to meaningful projects.
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
