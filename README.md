@@ -9,9 +9,3 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/melvin-castillo-b7422aa2/
-
-[linkedin]: [https://www.linkedin.com/in/melvin-castillo-b7422aa2/
